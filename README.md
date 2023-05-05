@@ -38,7 +38,7 @@ Overall, I am highly motivated to pursue an internship in the field of software 
   </a>
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=Uthern93&style=flat-square&color=blue" alt=""/>
   </a>
+  <br>
+    <img src="https://komarev.com/ghpvc/?username=Uthern93&style=flat-square&color=blue" alt=""/>
 </div>
