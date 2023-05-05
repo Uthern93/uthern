@@ -15,7 +15,7 @@ Overall, I am highly motivated to pursue an internship in the field of software 
 
 <h2>⚙ My skills</h2>
 <ul>
-  <li>Language : Java, Python, HTML, CSS, C++, C#, Vb.net, Kotlin</li>
+  <li>Language : Java, Python, HTML, Javascript, CSS, C++, C#, Vb.net, Kotlin</li>
   <li>Database management : MySQL, Google Firebase</li>
 </ul>  
 
