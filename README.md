@@ -5,29 +5,24 @@
 
 <h2>🚀 About me</h2>
 
-<p>As a recent IT fresh graduate with a focus on Mobile Application and Website Development, I am eager to begin my career in this field and contribute to the development of innovative software solutions.
+<p>I’m a passionate full-time programmer and part-time IT student with a strong foundation in full-stack development. My technical expertise includes ReactJS, Angular, Laravel, and backend API development, with experience in creating dynamic, scalable web applications and Progressive Web Apps (PWA).
 
-Through my academic coursework and projects, I have developed a strong foundation in programming languages such as Java, Python, and C++. I have also gained experience in software development, including designing and developing software applications, as well as testing and debugging code. I am familiar with agile development methodologies, including Scrum, and have worked in both individual and team settings.
-
-I possess excellent problem-solving skills and attention to detail, which enable me to write efficient, clean, and maintainable code. As a quick learner, I am highly adaptable and able to learn new technologies and tools quickly. Additionally, I possess excellent communication and interpersonal skills and am able to collaborate effectively with others to achieve project goals.
-
-Overall, I am highly motivated to pursue an internship in the field of software engineering, where I can apply my skills and knowledge in a real-world setting and contribute to an organization's success while also gaining valuable experience. I am excited about the opportunity to work with experienced professionals and to continue to learn and grow as a software engineer.</p>
+With a keen eye for design and efficient coding, I thrive in solving complex problems and building user-centric applications. Balancing my studies and work, I constantly seek opportunities to grow both academically and professionally in the ever-evolving tech landscape.</p>
 
 <h2>⚙ My skills</h2>
 <ul>
-  <li>Language : Java, Python, HTML, Javascript, CSS, C++, C#, Vb.net, Kotlin</li>
+  <li>Language : HTML, CSS, JS, ReactJs, AngularJs, Laravel, Java, Python, C++, C#, Kotlin</li>
   <li>Database management : MySQL, Google Firebase</li>
 </ul>  
 
 <h2>➕ My Interests</h2>
 <ul>
   <li>Mobile Application Development</li>
-  <li>Website Development (Frontend)</li>
+  <li>Website Development (Full-stack)</li>
 </ul>  
 
 <h2>🔍 Current Exploration</h2>
 <ul>
-  <li>Backend development for websites</li>
   <li>Artificial Intelligence</li>
 </ul>
 
